@@ -2,6 +2,7 @@ package com.yuvintech.git.impl;
 
 public class ArithmeticOperations {
 	public int add(int a, int b) {
+		System.out.println("Added method called....!"); 
 		return a + b;
 	}
 	public int multiplication(int a, int b)
